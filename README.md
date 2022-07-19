@@ -2,7 +2,7 @@
 
 > [[Paper]]
 >
-> Bangrui Jiang, zhihuai xie, Zhen Xia, Songnan	Li, Shan Liu
+> Bangrui Jiang, Zhihuai Xie, Zhen Xia, Songnan	Li, Shan Liu
 >
 > Tencent Media Lab, Shenzhen, China
 
