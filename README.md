@@ -1,4 +1,4 @@
-### ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring
+### ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring (ECCV 2022)
 
 > [[Paper]]
 >
